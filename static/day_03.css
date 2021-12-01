@@ -1,0 +1,35 @@
+@font-face {
+    font-family: "KOTRA_BOLD-Bold";
+    src: url("https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-10-21@1.1/KOTRA_BOLD-Bold.woff")
+      format("woff");
+    font-weight: normal;
+    font-style: normal;
+  }
+
+body {
+    font-family: "Nanum Gothic", serif;
+    font-weight: 400;
+}
+
+.logo img {
+    float: left;
+    width: 40px; height: 40px;
+}
+
+
+.divider {
+    border-bottom: 1px solid grey;
+}
+
+.caption {
+    font-size: 12px;
+}
+
+#blue-heading {
+    color: blue;
+}
+
+.title {
+    color: plum;
+    font-family: "KOTRA_BOLD-Bold";
+}
